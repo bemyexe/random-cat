@@ -44,6 +44,7 @@ export const ScssCat = () => {
   };
   return (
     <section className="scss-cat-container">
+      <h2>SCSS</h2>
       <div className="scss-cat-input-wrapper">
         <input
           id="isEnabled-scss"

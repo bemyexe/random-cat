@@ -66,6 +66,7 @@ export const StyledCat = () => {
   };
   return (
     <Section>
+      <h2>Styled</h2>
       <InputWrapper>
         <input
           id="isEnabled-styled"

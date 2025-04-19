@@ -44,6 +44,7 @@ export const ModulesCat = () => {
   };
   return (
     <section className={styles['modules-cat-container']}>
+      <h2>Modules</h2>
       <div className={styles['modules-cat-input-wrapper']}>
         <input
           id="isEnabled-modules"
